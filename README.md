@@ -96,6 +96,5 @@ Grateful to peers and mentors who provided guidance during model development and
 
 ## 📫 Contact
 
-Created with 📊 by **Bhavya Parmar**  
-💌 Feel free to connect for collaboration or feedback!
-
+Created with ❤️ by **Bhavya Parmar**  
+📬 Drop a ⭐ on the repo if this helped or inspired you!
